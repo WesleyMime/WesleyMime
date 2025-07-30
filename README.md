@@ -14,7 +14,7 @@
 
 ## Databases
 
-![postgresql]![mongodb]
+![postgresql]![mongodb]![redis]
 
 ## Tools and Technologies
 
@@ -22,7 +22,7 @@
 
 ## Code Editors
 
-![idea]![vscodium]
+![idea]![vscodium]![nvim]
 
 ## Cloud
 
@@ -53,6 +53,7 @@
 
 [postgresql]: https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&logoColor=white&style=for-the-badge
 [mongodb]: https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white&style=for-the-badge
+[redis]: https://img.shields.io/badge/Redis-FF4438.svg?logoColor=white&style=for-the-badge
 
 [junit]: https://img.shields.io/badge/junit-25A162?logo=junit&logoColor=white&style=for-the-badge
 [swagger]: https://img.shields.io/badge/swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge
@@ -64,6 +65,7 @@
 
 [idea]: https://img.shields.io/badge/intellij%20idea-000000?style=for-the-badge
 [vscodium]: https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff&style=for-the-badge
+[nvim]: https://img.shields.io/badge/Neovim-57A143?&logoColor=fff&style=for-the-badge
 
 [google]: https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white&style=for-the-badge
 [aws]: https://img.shields.io/badge/amazon%20web%20services-%23FF9900.svg?logo=amazon-web-services&logoColor=white&style=for-the-badge
